@@ -1,0 +1,14 @@
+C:\Users\ClassUser\Desktop\c#\IfElse2\bin\Debug\net6.0\IfElse2.exe
+C:\Users\ClassUser\Desktop\c#\IfElse2\bin\Debug\net6.0\IfElse2.deps.json
+C:\Users\ClassUser\Desktop\c#\IfElse2\bin\Debug\net6.0\IfElse2.runtimeconfig.json
+C:\Users\ClassUser\Desktop\c#\IfElse2\bin\Debug\net6.0\IfElse2.dll
+C:\Users\ClassUser\Desktop\c#\IfElse2\bin\Debug\net6.0\ref\IfElse2.dll
+C:\Users\ClassUser\Desktop\c#\IfElse2\bin\Debug\net6.0\IfElse2.pdb
+C:\Users\ClassUser\Desktop\c#\IfElse2\obj\Debug\net6.0\IfElse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassUser\Desktop\c#\IfElse2\obj\Debug\net6.0\IfElse2.AssemblyInfoInputs.cache
+C:\Users\ClassUser\Desktop\c#\IfElse2\obj\Debug\net6.0\IfElse2.AssemblyInfo.cs
+C:\Users\ClassUser\Desktop\c#\IfElse2\obj\Debug\net6.0\IfElse2.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\c#\IfElse2\obj\Debug\net6.0\IfElse2.dll
+C:\Users\ClassUser\Desktop\c#\IfElse2\obj\Debug\net6.0\ref\IfElse2.dll
+C:\Users\ClassUser\Desktop\c#\IfElse2\obj\Debug\net6.0\IfElse2.pdb
+C:\Users\ClassUser\Desktop\c#\IfElse2\obj\Debug\net6.0\IfElse2.genruntimeconfig.cache
